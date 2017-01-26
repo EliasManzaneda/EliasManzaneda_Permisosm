@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">" Gestor_de_Permisos_M+"</string>
+
+
+
+
+    <string name="eti_localizacion">Localización</string>
+    <string name="eti_camara">Camara</string>
+    <string name="eti_internet">Internet</string>
+    <string name="eti_contactos">Contactos</string>
+    <string name="eti_almacenamiento">Almacenamiento</string>
+
+
+    <string name="toast_error">Error</string>
+    <string name="toast_camara">Camara</string>
+    <string name="toast_contactos">Contactos</string>
+    <string name="toast_localizacion">Localización</string>
+
+    <string name="menu_camara">Menu Camara</string>
+    <string name="menu_contactos">Menu Contactos</string>
+    <string name="menu_localizacion">Menu Localización</string>
+</resources>
